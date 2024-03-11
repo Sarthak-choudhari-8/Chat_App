@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+
+.chat{
+    height: auto;
+    width: 30vw;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 15px;
+
+    
+    padding-left: 20px;
+
+}
+.msg{
+    /* border: 2px solid red; */
+    height: auto;
+    width: 80%;
+    text-align: center;
+    text-decoration: wavy;
+}
